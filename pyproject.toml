@@ -11,4 +11,5 @@ dependencies = [
     "black[jupyter]>=24.10.0",
     "nbformat>=5.10.4",
     "ipykernel>=7.0.0a0",
+    "requests>=2.32.3",
 ]
